@@ -49,7 +49,6 @@ select * from users u
 
 #Select에 들어가는 
 #SubQuery를 사용하는 경우
-#select FIELD in (subquery)
 #'오늘의 다짐'(comment) 데이터를 보고 싶은데 
 #'오늘의 다짐' 좋아요(likes)의 수가, 
 #본인이 평소에 받았던 좋아요 수에 비해 얼마나 높고 낮은지가 궁금할 수 있겠죠?
